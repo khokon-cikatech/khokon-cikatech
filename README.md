@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khokon-cikatech
-- 👀 I’m interested in DevOPS
+- 👀 I’m interested in DevOps | Backend | Problem Solving
 - 🌱 I’m currently learning Data structures and Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
